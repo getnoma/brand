@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 361.15 315.5">
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(15)">
+            <stop offset="0%" style="stop-color:rgb(18,214,223);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:rgb(247,15,255);stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <mask id="mask">
+        <polygon points="270.58 313.63 270.58 1.87 360.58 157.75 270.58 313.63" fill="white" />
+        <polygon points="210.58 157.75 210.58 1.87 150.58 1.87 210.58 157.75" fill="white" />
+        <polygon points="0.58 157.75 90.58 1.87 90.58 313.63 0.58 157.75" fill="white" />
+        <polygon points="150.58 313.63 150.58 157.75 210.58 313.63 150.58 313.63" fill="white" />
+    </mask>
+    <rect x="0" y="0" width="361.15" height="315.5" mask="url(#mask)" fill="url(#gradient)" />
+</svg>
